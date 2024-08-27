@@ -1,3 +1,0 @@
-<?php
-passthru('id');
-?>
